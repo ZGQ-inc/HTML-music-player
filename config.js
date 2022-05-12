@@ -88,21 +88,21 @@ function aplayer1 () {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507247755.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Running-in-the-Night---FM-84、Ollie-Wride.3hvbva9kr6a0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running-in-the-Night---FM-84、Ollie-Wride.3hvbva9kr6a0.jpg',
             lrc: '歌词1',
             theme: '#ebd0c2'
         }, {
             name: 'Takes All Night',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507247802.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Takes-All-Night---LeBrock.11dmie5lyr9s.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Takes%20All%20Night%20-%20LeBrock.jpg',
             lrc: '歌词2',
             theme: '#46718b'
         }, {
             name: 'Please Dont Cry',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507584182.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Please-Dont-Cry---LeBrock.2v79czw3cje0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Please%20Dont%20Cry%20-%20LeBrock.jpg',
             lrc: '歌词3',
             theme: '#505d6b'
         }]
@@ -118,21 +118,21 @@ function aplayer0 () {
             name: 'Please Dont Cry',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507584182.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Please-Dont-Cry---LeBrock.2v79czw3cje0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Please%20Dont%20Cry%20-%20LeBrock.jpg',
             lrc: '歌词3',
             theme: '#505d6b'
         }, {
             name: 'Takes All Night',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507247802.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Takes-All-Night---LeBrock.11dmie5lyr9s.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Takes%20All%20Night%20-%20LeBrock.jpg',
             lrc: '歌词2',
             theme: '#46718b'
         }, {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
             lrc: '歌词1',
             theme: '#ebd0c2'
         }]
@@ -146,7 +146,7 @@ function aplayer2 () {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
             theme: '#ebd0c2'
         }]
     });
@@ -169,21 +169,21 @@ function aplayer3 () {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
             lrc: '歌词1',
             theme: '#ebd0c2'
         }, {
             name: 'Takes All Night',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507247802.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Takes-All-Night---LeBrock.11dmie5lyr9s.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Takes%20All%20Night%20-%20LeBrock.jpg',
             lrc: '歌词2',
             theme: '#46718b'
         }, {
             name: 'Please Dont Cry',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507584182.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Please-Dont-Cry---LeBrock.2v79czw3cje0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Please%20Dont%20Cry%20-%20LeBrock.jpg',
             lrc: '歌词3',
             theme: '#505d6b'
         }]
@@ -198,7 +198,7 @@ function aplayer4 () {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
             lrc: '歌词1',
             theme: '#ebd0c2'
         }]
@@ -213,21 +213,21 @@ function aplayer5 () {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
             lrc: '歌词1',
             theme: '#ebd0c2'
         }, {
             name: 'Takes All Night',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507247802.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Takes-All-Night---LeBrock.11dmie5lyr9s.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Takes%20All%20Night%20-%20LeBrock.jpg',
             lrc: '歌词2',
             theme: '#46718b'
         }, {
             name: 'Please Dont Cry',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507584182.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Please-Dont-Cry---LeBrock.2v79czw3cje0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Please%20Dont%20Cry%20-%20LeBrock.jpg',
             lrc: '歌词3',
             theme: '#505d6b'
         }]
@@ -242,7 +242,7 @@ function aplayer6 () {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
             theme: '#ebd0c2'
         }]
     });
@@ -255,26 +255,26 @@ function aplayer7 () {
             name: 'Running in the Night(HLS)',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3串流',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
             theme: '#ebd0c2',
             type: 'hls'
         }, {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
             theme: '#ebd0c2'
         }, {
             name: 'Takes All Night',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507247802.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Takes-All-Night---LeBrock.11dmie5lyr9s.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Takes%20All%20Night%20-%20LeBrock.jpg',
             theme: '#46718b'
         }, {
             name: 'Please Dont Cry',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507584182.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Please-Dont-Cry---LeBrock.2v79czw3cje0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Please%20Dont%20Cry%20-%20LeBrock.jpg',
             theme: '#505d6b'
         }]
     });
@@ -288,17 +288,17 @@ function aplayer8 () {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
         }, {
             name: 'Takes All Night',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507247802.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Takes-All-Night---LeBrock.11dmie5lyr9s.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Takes%20All%20Night%20-%20LeBrock.jpg',
         }, {
             name: 'Please Dont Cry',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507584182.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Please-Dont-Cry---LeBrock.2v79czw3cje0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Please%20Dont%20Cry%20-%20LeBrock.jpg',
         }]
     });
 
@@ -321,21 +321,21 @@ function aplayer9 () {
             name: 'Running in the Night',
             artist: 'FM-84、Ollie Wride',
             url: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96Z3FpbmMtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvemdxX3pncWluY19vbm1pY3Jvc29mdF9jb20vRWQ4dC1hYVhyNXhLb2ljNXZXLUZEdzRCbWdSQzM5YlNtaF91c18zNWotTzlTQT9lPWJ1WlVsdg.mp3',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/When-You-Grow-Up,-Your-Heart-Dies---GUNSHIP.75rr85u0p3o0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Running%20in%20the%20Night%20-%20FM-84%E3%80%81Ollie%20Wride.jpg',
             lrc: '歌词1',
             theme: '#ebd0c2'
         }, {
             name: 'Takes All Night',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507247802.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Takes-All-Night---LeBrock.11dmie5lyr9s.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Takes%20All%20Night%20-%20LeBrock.jpg',
             lrc: '歌词2',
             theme: '#46718b'
         }, {
             name: 'Please Dont Cry',
             artist: 'LeBrock',
             url: 'https://zgqincblog.files.wordpress.com/2022/03/wp-1647507584182.mp4',
-            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220317/Please-Dont-Cry---LeBrock.2v79czw3cje0.jpg',
+            cover: 'https://cdn.jsdelivr.net/gh/ZGQ-inc/HTML-music-player@master/assets/cover/Please%20Dont%20Cry%20-%20LeBrock.jpg',
             lrc: '歌词3',
             theme: '#505d6b'
         }]
